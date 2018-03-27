@@ -1,0 +1,19 @@
+out/
+.idea/
+*.iml
+
+/GLOriousProj/nbproject/private/
+/GLOriousProj/dist/
+/GLOriousProj/build/
+
+
+### macOS ###
+*.DS_Store
+
+### Visual Paradigm ###
+*.vpp.*
+.vpprefdata/
+.lock
+/Source/Gaudrophone/nbproject/private/
+/Source/Gaudrophone/build/
+/Source/Gaudrophone/dist/

@@ -1,0 +1,16 @@
+// Let's walk downtown (C. McCormick)
+// Une pièce bébé-fafa
+60
+
+//  Take  My    Hand     Let's   Walk  Down  Town
+| e4 e4 e4 e4 e4 e4 e4 e4 | g4 g4 g4 g4 g4 g4 g4 g4 |
+| c3 c3 c3 c3 c3 c3 c3 c3 | b3 b3 b3 b3 b3 b3 b3 b3 |
+| g3 g3 g3 g3 g3 g3 g3 g3 | g3 g3 g3 g3 g3 g3 g3 g3 |
+  _  _  _  _  _  _  _  _    _  _  _  _  _  _  _  _ 
+
+    
+//Cause I've  got...
+| e4 e4 e4 e4 e4 e4 e4 e4 | g4 g4 g4 g4 g4 g4 g4 g4 |
+| c3 c3 c3 c3 c3 c3 c3 c3 | b3 b3 b3 b3 b3 b3 b3 b3 |
+| g3 g3 g3 g3 g3 g3 g3 g3 | g3 g3 g3 g3 g3 g3 g3 g3 |
+  _  _  _  _  _  _  _  _    _  _  _  _  _  _  _  _  

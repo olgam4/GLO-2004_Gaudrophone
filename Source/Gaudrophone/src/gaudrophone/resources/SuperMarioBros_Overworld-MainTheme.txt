@@ -1,0 +1,195 @@
+// Super Mario Bros (1985) Overworld / Main Theme
+400
+
+// Page 1
+| E5 E5 X  E5 | X  C5 E5 X  | G5 X  X  X  | G4 X  X  X  |
+| F# F# X  F# | X  F# F# X  | B4 X  X  X  | G3 X  X  X  |
+| D3 D3 X  D3 | X  D3 D3 X  | G4 X  X  X  | X  X  X  X  |
+
+
+| C5 X  X  G4 | X  X  E4 X  | X  A4 X  B4 | X  A4# A4 X |
+| E4 X  X  C4 | X  X  G3 X  | X  C4 X  D4 | X  C4# C4 X |
+| G3 X  X  E3 | X  X  C3 X  | X  F3 X  G3 | X  F3# F3 X |
+
+
+| G4 E5 G5    | A5 X  F5 G5 | X  E5 X  C5 | D5 B4 X  X  |
+| C4 G4 B4    | C5 X  A4 B4 | X  A4 X  E4 | F4 D4 X  X  |
+| E3 C4 E4    | F4 X  D4 E4 | X  C4 X  A3 | B3 G3 X  X  |
+
+
+| C5 X  X  G4 | X  X  E4 X  | X  A4 X  B4 | X  A4# A4 X |
+| E4 X  X  C4 | X  X  G3 X  | X  C4 X  D4 | X  C4# C4 X |
+| G3 X  X  E3 | X  X  C3 X  | X  F3 X  G3 | X  F3# F3 X |
+
+
+| G4 E5 G5    | A5 X  F5 G5 | X  E5 X  C5 | D5 B4 X  X  |
+| C4 G4 B4    | C5 X  A4 B4 | X  A4 X  E4 | F4 D4 X  X  |
+| E3 C4 E4    | F4 X  D4 E4 | X  C4 X  A3 | B3 G3 X  X  |
+
+
+// Page 2
+| X  X G5 F5# | F5 D5# X E5 | X G4# A4 C5 | X  A4 C5 D5 |
+| C3 X E5 D5# | D5 B4 C4 C5 | X  E4 F4 G4 | X  C4 E4 F4 |
+| X  X  X  G3 | X  X  X  X  | F3 X  X  C4 | C4 X  F3 X  |
+
+
+| X  X G5 F5# | F5 D5# X E5 | X  C6 X  C6 | C6 X  X  X  |
+| C3 X E5 D5# | D5 B4 G3 C5 | X  G5 X  G5 | G5 X  X  X  |
+| X  X  X  E3 | X  X  X  C4 | X  F5 X  F5 | F5 X  G3 X  |
+
+
+| X  X G5 F5# | F5 D5# X E5 | X G4# A4 C5 | X  A4 C5 D5 |
+| C3 X E5 D5# | D5 B4 C4 C5 | X  E4 F4 G4 | X  C4 E4 F4 |
+| X  X  X  G3 | X  X  X  X  | F3 X  X  C4 | C4 X  F3 X  |
+
+
+| X  X  D5# X | X  D5 X  X  | C5 X  X  X  | X  X  X  X  |
+| X  X  G4# X | X  F4 X  X  | E4 X  X  X  | X  X  X  X  |
+| C3 X  G3# X | X A3# X  X  | C4 X  X  G3 | G3 X  C3 X  |
+
+
+// Page 3
+| X  X G5 F5# | F5 D5# X E5 | X G4# A4 C5 | X  A4 C5 D5 |
+| C3 X E5 D5# | D5 B4 C4 C5 | X  E4 F4 G4 | X  C4 E4 F4 |
+| X  X  X  G3 | X  X  X  X  | F3 X  X  C4 | C4 X  F3 X  |
+
+
+| X  X G5 F5# | F5 D5# X E5 | X  C6 X  C6 | C6 X  X  X  |
+| C3 X E5 D5# | D5 B4 G3 C5 | X  G5 X  G5 | G5 X  X  X  |
+| X  X  X  E3 | X  X  X  C4 | X  F5 X  F5 | F5 X  G3 X  |
+
+
+| X  X G5 F5# | F5 D5# X E5 | X G4# A4 C5 | X  A4 C5 D5 |
+| C3 X E5 D5# | D5 B4 C4 C5 | X  E4 F4 G4 | X  C4 E4 F4 |
+| X  X  X  G3 | X  X  X  X  | F3 X  X  C4 | C4 X  F3 X  |
+
+
+| X  X  D5# X | X  D5 X  X  | C5 X  X  X  | X  X  X  X  |
+| X  X  G4# X | X  F4 X  X  | E4 X  X  X  | X  X  X  X  |
+| C3 X  G3# X | X A3# X  X  | C4 X  X  G3 | G3 X  C3 X  |
+
+
+// Page 4
+| C5 C5 X  C5 | X  C5 D5  X | E5 C5 X  A4 | G4 X  X  X  |
+| G# G# X  G# | X  X  A4# X | G4 E4 X  E4 | C4 X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| C5 C5 X  C5 | X  C5 D5 E5 | X  X  X  X  | X  X  X  X  |
+| G# G# X  G# | X  X A4# G4 | X  X  X  X  | X  X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| C5 C5 X  C5 | X  C5 D5  X | E5 C5 X  A4 | G4 X  X  X  |
+| G# G# X  G# | X  X  A4# X | G4 E4 X  E4 | C4 X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| E5 E5 X  E5 | X  C5 E5 X  | G5 X  X  X  | G4 X  X  X  |
+| F# F# X  F# | X  F# F# X  | B4 X  X  X  | G3 X  X  X  |
+| D3 D3 X  D3 | X  D3 D3 X  | G4 X  X  X  | X  X  X  X  |
+
+
+// Page 5
+| C5 X  X  G4 | X  X  E4 X  | X  A4 X  B4 | X  A4# A4 X |
+| E4 X  X  C4 | X  X  G3 X  | X  C4 X  D4 | X  C4# C4 X |
+| G3 X  X  E3 | X  X  C3 X  | X  F3 X  G3 | X  F3# F3 X |
+
+
+| G4 E5 G5    | A5 X  F5 G5 | X  E5 X  C5 | D5 B4 X  X  |
+| C4 G4 B4    | C5 X  A4 B4 | X  A4 X  E4 | F4 D4 X  X  |
+| E3 C4 E4    | F4 X  D4 E4 | X  C4 X  A3 | B3 G3 X  X  |
+
+
+| C5 X  X  G4 | X  X  E4 X  | X  A4 X  B4 | X  A4# A4 X |
+| E4 X  X  C4 | X  X  G3 X  | X  C4 X  D4 | X  C4# C4 X |
+| G3 X  X  E3 | X  X  C3 X  | X  F3 X  G3 | X  F3# F3 X |
+
+
+| G4 E5 G5    | A5 X  F5 G5 | X  E5 X  C5 | D5 B4 X  X  |
+| C4 G4 B4    | C5 X  A4 B4 | X  A4 X  E4 | F4 D4 X  X  |
+| E3 C4 E4    | F4 X  D4 E4 | X  C4 X  A3 | B3 G3 X  X  |
+
+
+// Page 6
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 A5 A5    | A5 G5 F5    | E5 C5 X  A4 | G4 X  X  X  |
+| G4 F5 F5    | F5 E5 D5    | C5 A4 X  F4 | E4 X  X  X  |
+| D3 X  F3    | G3 B3 X     | G3 X  G3 X  | C4 C4 G3 X  |
+
+
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 F5 X  F5 | F5 E5 D5    | C5 X  X  X  | C4 X  X  X  |
+| G4 D5 X  D5 | D5 C5 B4    | G4 E4 X  E4 | X  X  X  X  |
+| G3 X  X  G3 | G3 A3 B3    | C4 X  G3 X  | C3 X  X  X  |
+
+
+// Page 7
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 A5 A5    | A5 G5 F5    | E5 C5 X  A4 | G4 X  X  X  |
+| G4 F5 F5    | F5 E5 D5    | C5 A4 X  F4 | E4 X  X  X  |
+| D3 X  F3    | G3 B3 X     | G3 X  G3 X  | C4 C4 G3 X  |
+
+
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 F5 X  F5 | F5 E5 D5    | C5 X  X  X  | C4 X  X  X  |
+| G4 D5 X  D5 | D5 C5 B4    | G4 E4 X  E4 | X  X  X  X  |
+| G3 X  X  G3 | G3 A3 B3    | C4 X  G3 X  | C3 X  X  X  |
+
+
+// Page 8
+| C5 C5 X  C5 | X  C5 D5  X | E5 C5 X  A4 | G4 X  X  X  |
+| G# G# X  G# | X  X  A4# X | G4 E4 X  E4 | C4 X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| C5 C5 X  C5 | X  C5 D5 E5 | X  X  X  X  | X  X  X  X  |
+| G# G# X  G# | X  X A4# G4 | X  X  X  X  | X  X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| C5 C5 X  C5 | X  C5 D5  X | E5 C5 X  A4 | G4 X  X  X  |
+| G# G# X  G# | X  X  A4# X | G4 E4 X  E4 | C4 X  X  X  |
+| G2# X X D3# | X G4# G3# X | G3 X  X  C3 | X  X  G2 X  |
+
+
+| E5 E5 X  E5 | X  C5 E5 X  | G5 X  X  X  | G4 X  X  X  |
+| F# F# X  F# | X  F# F# X  | B4 X  X  X  | G3 X  X  X  |
+| D3 D3 X  D3 | X  D3 D3 X  | G4 X  X  X  | X  X  X  X  |
+
+
+// Page 9
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 A5 A5    | A5 G5 F5    | E5 C5 X  A4 | G4 X  X  X  |
+| G4 F5 F5    | F5 E5 D5    | C5 A4 X  F4 | E4 X  X  X  |
+| D3 X  F3    | G3 B3 X     | G3 X  G3 X  | C4 C4 G3 X  |
+
+
+| E5 C5 X  G4 | X  X  G4# X | A4 F5 X  F5 | A4 X  X  X  |
+| C5 A4 X  E4 | X  X  E4  X | F4 C5 X  C5 | F4 X  X  X  |
+| C3 X  X F3# | G3 X  C4  X | F3 X  F3 X  | C4 C4 F3 X  |
+
+
+| B4 F5 X  F5 | F5 E5 D5    | C5 X  X  X  | C4 X  X  X  |
+| G4 D5 X  D5 | D5 C5 B4    | G4 E4 X  E4 | X  X  X  X  |
+| G3 X  X  G3 | G3 A3 B3    | C4 X  G3 X  | C3 X  X  X  |
